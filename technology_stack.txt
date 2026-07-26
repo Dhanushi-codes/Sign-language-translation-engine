@@ -1,0 +1,22 @@
+TECHNOLOGY STACK
+
+Programming Language:
+Python
+
+Computer Vision:
+OpenCV
+
+Hand Tracking:
+MediaPipe
+
+Machine Learning:
+Scikit-learn / TensorFlow
+
+Text-to-Speech:
+pyttsx3
+
+Development Environment:
+Visual Studio Code
+
+Version Control:
+Git and GitHub
