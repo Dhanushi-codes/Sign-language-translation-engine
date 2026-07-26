@@ -1,0 +1,18 @@
+PROJECT TITLE
+Real-Time Sign Language Recognition and Spoken Text Translation Engine using Computer Vision
+
+PROJECT TYPE
+3rd Semester Field Project
+
+OBJECTIVE
+To develop a real-time computer vision system that recognizes sign language gestures through a webcam and converts the recognized signs into text and spoken output.
+
+CORE TECHNOLOGIES
+Python
+OpenCV
+MediaPipe
+Machine Learning
+Text-to-Speech
+
+CURRENT PHASE
+Project Initialization and Research
