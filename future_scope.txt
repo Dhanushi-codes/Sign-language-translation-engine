@@ -1,0 +1,17 @@
+FUTURE SCOPE
+
+1. Expand the system to recognize a larger vocabulary of sign language gestures.
+
+2. Support continuous sign language recognition for complete sentences.
+
+3. Improve recognition accuracy using advanced deep learning models.
+
+4. Add support for Indian Sign Language and other regional sign languages.
+
+5. Develop a mobile application for wider accessibility.
+
+6. Add two-way communication between sign language and spoken language.
+
+7. Improve robustness under different lighting conditions and backgrounds.
+
+8. Integrate multilingual text and speech translation.
