@@ -1,0 +1,19 @@
+SYSTEM WORKFLOW
+
+Webcam
+  ↓
+Real-Time Video Capture
+  ↓
+Hand Detection and Tracking
+  ↓
+Hand Landmark Extraction
+  ↓
+Sign Language Recognition
+  ↓
+Recognized Sign
+  ↓
+Text Output
+  ↓
+Text-to-Speech Conversion
+  ↓
+Spoken Audio Output
