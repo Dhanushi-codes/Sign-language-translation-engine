@@ -1,0 +1,13 @@
+PROJECT LIMITATIONS
+
+1. The initial system will recognize only a predefined set of sign language gestures.
+
+2. Recognition accuracy may vary depending on lighting conditions.
+
+3. Complex gestures and continuous sign language sentences may not be supported in the initial version.
+
+4. Background objects and multiple hands may affect recognition accuracy.
+
+5. The system may require further training with diverse datasets to improve generalization.
+
+6. The initial version may focus on static gestures rather than complete dynamic sign language sequences.

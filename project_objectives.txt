@@ -1,0 +1,13 @@
+PROJECT OBJECTIVES
+
+1. To develop a real-time sign language recognition system using computer vision.
+
+2. To detect and track hand movements using hand landmark detection.
+
+3. To recognize predefined sign language gestures using machine learning techniques.
+
+4. To convert recognized gestures into readable text.
+
+5. To convert the generated text into spoken audio.
+
+6. To create a simple and accessible system that can assist communication between sign language users and non-sign language users.

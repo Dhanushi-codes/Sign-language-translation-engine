@@ -1,0 +1,5 @@
+PROBLEM STATEMENT
+
+Communication between deaf or hard-of-hearing individuals who use sign language and people who do not understand sign language can be challenging.
+
+This project aims to develop a real-time computer vision-based system that recognizes sign language gestures through a webcam and converts them into text and spoken output, helping improve communication accessibility.

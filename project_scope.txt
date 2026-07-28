@@ -1,0 +1,7 @@
+notepad project_limitations.txtPROJECT SCOPE
+
+The initial version of the project will focus on recognizing a selected set of static sign language gestures using a webcam.
+
+The system will process the user's hand gestures in real time, identify supported signs, display the corresponding text, and generate spoken output.
+
+The project will initially focus on a limited vocabulary and can be expanded in future versions to support more gestures, continuous sentence recognition, and multiple sign languages.
